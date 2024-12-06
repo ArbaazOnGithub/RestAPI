@@ -1,0 +1,4 @@
+Frontend\node_modules\ 
+Frontend\build\ 
+Backend\course-api\target\ 
+*.log 
