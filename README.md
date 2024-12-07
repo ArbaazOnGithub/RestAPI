@@ -37,11 +37,13 @@ This project is a **REST API-based full-stack application** developed using **Re
 
 ## **📸 Screenshots**  
 - **Homepage**  
-![Homepage](https://via.placeholder.com/600x400?text=React+Homepage)  
+![Homepage](https://github.com/ArbaazOnGithub/RestAPI/blob/main/homePage.png)  
 
 - **API Response Example**  
-![API Example](https://via.placeholder.com/600x400?text=API+Response)
+![API Example](https://github.com/ArbaazOnGithub/RestAPI/blob/main/API%20responce.png)
 
+- **Add Courses**  
+![Add Courses](https://github.com/ArbaazOnGithub/RestAPI/blob/main/AddCourse.png)
 ---
 
 ## **⚙️ Installation & Setup**  
